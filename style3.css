@@ -63,7 +63,7 @@
   box-sizing: ;
 
   /* position */
-  display: ;
+  
   position: ;
   top: ;
   right: ;
@@ -72,6 +72,8 @@
   
   float: ;
   clear: ;
+   
+  display: ;
 
   /* align-content */
   align-content: ;
